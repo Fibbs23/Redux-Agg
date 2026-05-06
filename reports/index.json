@@ -1,0 +1,34 @@
+{
+  "colorPalette": "gold-bronze",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260505-181030-rbsp",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-06T00:10:30.000Z",
+      "dateEnd": "2026-05-06T01:02:25.000Z",
+      "dateLabel": "5/5/2026, 6:10:30 PM - 5/5/2026, 7:02:25 PM",
+      "url": "https://Fibbs23.github.io/Redux-Agg/?report=20260505-181030-rbsp",
+      "summary": {
+        "borderlandsPct": 0.22727272727272727,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 59
+      }
+    }
+  ]
+}
