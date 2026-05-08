@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-200942-avgp",
+      "title": "Shayngo Fett",
+      "commanders": [
+        "Shayngo Fett"
+      ],
+      "dateStart": "2026-05-08T02:09:42.000Z",
+      "dateEnd": "2026-05-08T02:52:04.000Z",
+      "dateLabel": "5/7/2026, 8:09:42 PM - 5/7/2026, 8:52:04 PM",
+      "url": "https://Fibbs23.github.io/Redux-Agg/?report=20260507-200942-avgp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260507-185400-27rg",
       "title": "Gear Check For Bads",
       "commanders": [
